@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|c:\\users\\gisse\\onedrive\\desktop\\oldclasses\\cs_3280\\sss\\sss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EE5C87-9385-4303-9568-0AE938B4E40D}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\dataaccesslayer\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EE5C87-9385-4303-9568-0AE938B4E40D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\expirationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\expirationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\bookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\bookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\negativepriceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\negativepriceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\furnitureitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\furnitureitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\shopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EE5C87-9385-4303-9568-0AE938B4E40D}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\dataaccesslayer\\organization.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{A3EE5C87-9385-4303-9568-0AE938B4E40D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\organization.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\storeowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\storeowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\regularcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\regularcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\paidcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\paidcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\sss\\icloneable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1432930A-D807-4236-B60F-D5039917DEDD}|SSS\\SSS.csproj|solutionrelative:sss\\icloneable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 214,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\DataAccessLayer\\Utility.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Utility.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\DataAccessLayer\\Utility.cs",
+              "RelativeToolTip": "DataAccessLayer\\Utility.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:00.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\Search.cs",
+              "RelativeDocumentMoniker": "SSS\\Search.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\Search.cs",
+              "RelativeToolTip": "SSS\\Search.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T20:43:00.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\InventoryForm.cs",
+              "RelativeDocumentMoniker": "SSS\\InventoryForm.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\InventoryForm.cs",
+              "RelativeToolTip": "SSS\\InventoryForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T20:43:00.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\InventoryForm.cs",
+              "RelativeDocumentMoniker": "SSS\\InventoryForm.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\CS_3280\\SSS\\SSS\\InventoryForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\CS_3280\\SSS\\SSS\\InventoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T20:43:00.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Companies.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\Companies.cs",
+              "RelativeDocumentMoniker": "SSS\\Companies.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\Companies.cs",
+              "RelativeToolTip": "SSS\\Companies.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T20:43:00.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\Program.cs",
+              "RelativeDocumentMoniker": "SSS\\Program.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\Program.cs",
+              "RelativeToolTip": "SSS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:00.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Search.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\Search.cs",
+              "RelativeDocumentMoniker": "SSS\\Search.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\CS_3280\\SSS\\SSS\\Search.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\CS_3280\\SSS\\SSS\\Search.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T20:43:00.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\MainWindow.cs",
+              "RelativeDocumentMoniker": "SSS\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\CS_3280\\SSS\\SSS\\MainWindow.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\CS_3280\\SSS\\SSS\\MainWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T20:43:00.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExpirationException.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\ExpirationException.cs",
+              "RelativeDocumentMoniker": "SSS\\ExpirationException.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\ExpirationException.cs",
+              "RelativeToolTip": "SSS\\ExpirationException.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:00.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookItem.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\BookItem.cs",
+              "RelativeDocumentMoniker": "SSS\\BookItem.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\BookItem.cs",
+              "RelativeToolTip": "SSS\\BookItem.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:00.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NegativePriceException.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\NegativePriceException.cs",
+              "RelativeDocumentMoniker": "SSS\\NegativePriceException.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\NegativePriceException.cs",
+              "RelativeToolTip": "SSS\\NegativePriceException.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:00.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\Customer.cs",
+              "RelativeDocumentMoniker": "SSS\\Customer.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\Customer.cs",
+              "RelativeToolTip": "SSS\\Customer.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:00.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\Inventory.cs",
+              "RelativeDocumentMoniker": "SSS\\Inventory.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\Inventory.cs",
+              "RelativeToolTip": "SSS\\Inventory.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAnwBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:00.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FurnitureItem.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\FurnitureItem.cs",
+              "RelativeDocumentMoniker": "SSS\\FurnitureItem.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\FurnitureItem.cs",
+              "RelativeToolTip": "SSS\\FurnitureItem.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:00.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShopItem.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\ShopItem.cs",
+              "RelativeDocumentMoniker": "SSS\\ShopItem.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\ShopItem.cs",
+              "RelativeToolTip": "SSS\\ShopItem.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:00.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Organization.xsd",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\DataAccessLayer\\Organization.xsd",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Organization.xsd",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\DataAccessLayer\\Organization.xsd",
+              "RelativeToolTip": "DataAccessLayer\\Organization.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000835|",
+              "WhenOpened": "2024-03-19T20:43:00.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StoreOwner.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\StoreOwner.cs",
+              "RelativeDocumentMoniker": "SSS\\StoreOwner.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\StoreOwner.cs",
+              "RelativeToolTip": "SSS\\StoreOwner.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwBQAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:00.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegularCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\RegularCustomer.cs",
+              "RelativeDocumentMoniker": "SSS\\RegularCustomer.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\RegularCustomer.cs",
+              "RelativeToolTip": "SSS\\RegularCustomer.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowEEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:00.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaidCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\PaidCustomer.cs",
+              "RelativeDocumentMoniker": "SSS\\PaidCustomer.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\PaidCustomer.cs",
+              "RelativeToolTip": "SSS\\PaidCustomer.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAcwDAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:00.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICloneable.cs",
+              "DocumentMoniker": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\ICloneable.cs",
+              "RelativeDocumentMoniker": "SSS\\ICloneable.cs",
+              "ToolTip": "C:\\Users\\gisse\\OneDrive\\Desktop\\OldClasses\\CS_3280\\SSS\\SSS\\ICloneable.cs",
+              "RelativeToolTip": "SSS\\ICloneable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:00.632Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 70,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
